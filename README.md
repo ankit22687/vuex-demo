@@ -5,6 +5,8 @@
 - Store all jokes in local storage so date will persist even after page refresh
 - Delete button to remove data from local storage
 
+![Alt text](https://github.com/ankit22687/vuex-demo/blob/master/public/vuex-joke-demo.png "Vuex Demo")
+
 ## Project setup
 
 ```
